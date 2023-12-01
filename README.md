@@ -1,6 +1,10 @@
 # Python-Data-Analysis
 Ejercicios sobre análisis de datos con Python
 
+# Requerimientos
+- Python 3.11.5
+- Instalar las librerías necesarias
+  
 # Librerías necesarias:
 - Pandas
 - Numpy
